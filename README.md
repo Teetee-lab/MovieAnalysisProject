@@ -13,6 +13,8 @@ Microsoft sees all the big companies creating original video content and wanted 
 
 ## Repository
 
+ '''
+
 ├── Images                                 <- Folder containing graphs and images 
 │
 ├── Notebooks                              <- Directory containing project notebooks
@@ -23,5 +25,7 @@ Microsoft sees all the big companies creating original video content and wanted 
 │
 └── README.md                              <- Top-level README
 
+'''
 
-Author: Titilayo (Teetee) Amuwo
+Author 
+- Titilayo (Teetee) Amuwo
