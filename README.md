@@ -10,22 +10,15 @@ This project analyze different types of movie titles that is currently doing the
 
 Microsoft sees all the big companies creating original video content and wanted to get in on the fun. They have decided to create a new movie studio, but they don't know anything about creating movies. I need to explore what types of films are currently doing the best at the box office, and then translate those findings into actionable insights that the head of Microsoft's new movie studio can use to make a decision. Below I will analyze the data given to understand different movies and their ratings and it's relationship to profits.
 
+ ## Repository Structure
 
-## Repository
-
- '''
-
-├── Images                                 <- Folder containing graphs and images 
-│
-├── Notebooks                              <- Directory containing project notebooks
-│
-├── MoviesExploratoryDataAnalysis.ipynb    <- Narrative documentation of the project in Jupyter notebook
-│
-├── Presentation.pdf                       <- PDF version of project presentation
-│
-└── README.md                              <- Top-level README
-
-'''
+```
+├── Images                                <- Folder containing graphs and images  
+├── notebooks                             <- Directory containing project  notebooks 
+├── MovieExploratoryDataAnalysis.ipynb    <- Narrative documentation of the project in Jupyter notebook
+├── Presentation.pdf                      <- PDF version of project presentation
+└── README.md                             <- Top-level README
+``` 
 
 Author 
 - Titilayo (Teetee) Amuwo
