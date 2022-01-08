@@ -13,10 +13,14 @@ Microsoft sees all the big companies creating original video content and wanted 
 
 ## Repository
 
-├── Images                                 <- Folder containing graphs and images  
-├── notebooks                              <- Directory containing project  notebooks
+├── Images                                 <- Folder containing graphs and images 
+│
+├── Notebooks                              <- Directory containing project notebooks
+│
 ├── MoviesExploratoryDataAnalysis.ipynb    <- Narrative documentation of the project in Jupyter notebook
+│
 ├── Presentation.pdf                       <- PDF version of project presentation
+│
 └── README.md                              <- Top-level README
 
 
