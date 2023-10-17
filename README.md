@@ -1,4 +1,4 @@
-# Movie Exploration Project
+# Movie Exploratory Data Analysis Project
 
 ![Microsoft Movie](https://images.macrumors.com/t/dKAZ7HVGfF6cDvUubk6yiHhmyqU=/1600x1200/smart/article-new/2018/07/movies-and-tv-microsoft-app.jpg)
 
